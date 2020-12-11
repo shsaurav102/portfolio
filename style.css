@@ -1,0 +1,58 @@
+.header {
+  background-color: rgb(2, 6, 17);
+  text-align: center;
+}
+.about-me {
+  font-size: 20px;
+  opacity: 0.5;
+  color: rgb(8, 235, 140);
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+  font-weight: bolder;
+}
+.title {
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+.header h1 {
+  color: rgb(8, 235, 140);
+  font-family: "Courier New", Courier, monospace;
+}
+.picture {
+  height: 20em;
+  width: 20em;
+  border-radius: 50%;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-image: URL("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+}
+
+/* #list {
+  margin: 0px;
+  font-family: "Courier New", Courier, monospace;
+} */
+/* #list {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+} */
+#skills {
+  margin: 0px;
+}
+#education {
+  margin-bottom: 0px;
+}
+
+#projects {
+  /* margin-top: 0.5em; */
+  margin-bottom: 9px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#social linkedin {
+  color: blue;
+  font-weight: bold;
+}
+#email {
+  margin: 0px;
+}
